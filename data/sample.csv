@@ -1,0 +1,11 @@
+student_id,name,department,semester,math_marks,science_marks,english_marks,attendance,fees_paid
+101,Amit Sharma,Computer Science,1,78,82,74,92,Yes
+102,Neha Patel,Computer Science,1,85,79,88,95,Yes
+103,Rohit Verma,Mechanical,2,65,70,60,85,No
+104,Pooja Singh,Electrical,3,90,88,84,96,Yes
+105,Karan Mehta,Civil,2,72,68,75,89,Yes
+106,Anjali Gupta,Computer Science,3,88,91,86,97,Yes
+107,Rahul Yadav,Mechanical,1,60,64,58,80,No
+108,Sneha Iyer,Electrical,2,92,90,94,98,Yes
+109,Arjun Kapoor,Civil,4,74,77,73,87,Yes
+110,Priya Nair,Computer Science,4,89,93,90,96,Yes
